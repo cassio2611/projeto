@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(184, 167, 245, 0.717);
+}
+h1{color:rgb(139, 139, 244);}
+h2{color:rgb(4, 91, 146);}
+h3{color: white;}
+li{color: blue;}
+body{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    font-size: Se;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    
+
+}
+h2{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h3{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
+li{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+h1{font-family: Arial, Helvetica, sans-serif;}
+.container img { max-width: 200px; }
+h4{color: white;}
+ 
